@@ -1,6 +1,7 @@
 HELP.md
 target/
-.mvn/
+.mvn/timing.properties
+.mvn/wrapper/maven-wrapper.jar
 !**/src/main/**/target/
 !**/src/test/**/target/
 .metadata
