@@ -1,4 +1,4 @@
-package cl.tesoreria.GestionPersonasRest.security;
+package cl.tesoreria.GestionPersonasRest.service;
 
 import java.util.List;
 
@@ -11,7 +11,6 @@ import com.fasterxml.jackson.databind.node.ArrayNode;
 import com.fasterxml.jackson.databind.node.ObjectNode;
 
 import cl.tesoreria.GestionPersonasRest.dao.TiposDAO;
-import cl.tesoreria.GestionPersonasRest.service.TiposService;
 import cl.tesoreria.GestionPersonasRest.vo.ResponseVO;
 import cl.tesoreria.GestionPersonasRest.vo.TiposVO;
 
